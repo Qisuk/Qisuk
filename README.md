@@ -1,9 +1,13 @@
 - Hi, I’m @Qisuk
-- Day-to-Day
+- Day-to-Day I'm using
    - .Net/C#
    - SQL/SSRS/SSIS
    - SharePoint
-- I’m currently learning 
+   - PowerApps
+   - 
+- I’m playing with
+   - Dell Boomi
+   - ManageEngine
    - Azure/ Power Platform
    - Docker/Kubernetes
    - Linux/ Python
