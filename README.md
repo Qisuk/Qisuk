@@ -8,6 +8,7 @@
    - Dell Boomi
    - ManageEngine
    - Azure/ Power Platform
+   - Web Application Testing
 
 - I’m playing with
    - Docker/Kubernetes
