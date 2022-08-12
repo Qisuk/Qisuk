@@ -11,7 +11,5 @@
    - Azure/ Power Platform
    - Web Application Security
 
-
-
-
-
+- I’m playing with
+   - TryHackMe
