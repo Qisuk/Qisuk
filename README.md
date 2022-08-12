@@ -2,18 +2,16 @@
    - .Net/C#
    - SQL/SSRS/SSIS
    - SharePoint
-   - PowerApps
+   - Power Platform
+   - Automation Anywhere
+   - python
    
 - I'm learning
-   - Dell Boomi
    - ManageEngine
    - Azure/ Power Platform
-   - Web Application Testing
+   - Web Application Security
 
-- I’m playing with
-   - Docker/Kubernetes
-   - Linux/ Python
-   - Misc CTF stuff
+
 
 
 
