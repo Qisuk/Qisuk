@@ -1,13 +1,13 @@
 - Day-to-Day I'm using
    - .Net/C#
+   - AWS
    - SQL/SSRS/SSIS
    - SharePoint
    - Power Platform
    - Automation Anywhere
-   - python
+   - Python
    
 - I'm learning
-   - ManageEngine
    - Azure/ Power Platform
    - Web Application Security
 
