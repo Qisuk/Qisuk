@@ -12,4 +12,4 @@
    - Web Application Security
 
 - I’m playing with
-   - TryHackMe
+   - HackTheBox
