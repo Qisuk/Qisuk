@@ -1,10 +1,9 @@
 - Day-to-Day I'm using
    - .Net/C#
-   - AWS
+   - Azure
    - SQL/SSRS/SSIS
    - SharePoint
    - Power Platform
-   - Automation Anywhere
    - Python
    
 - I'm learning
