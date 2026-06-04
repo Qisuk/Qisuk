@@ -5,10 +5,14 @@
    - SharePoint
    - Power Platform
    - Python
-   
+   - Github Copilot
+   -D365
+
 - I'm learning
    - Azure/ Power Platform
    - Web Application Security
+   - AI misc.
 
 - I’m playing with
-   - HackTheBox
+   - AI/MCP
+   - D365
