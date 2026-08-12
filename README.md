@@ -6,7 +6,7 @@
    - Power Platform
    - Python
    - Github Copilot
-   -D365
+   - D365
 
 - I'm learning
    - Azure/ Power Platform
