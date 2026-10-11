@@ -5,14 +5,11 @@
    - SharePoint
    - Power Platform
    - Python
-   - Github Copilot
+   - Github Copilot, Claude, 
    - D365
 
 - I'm learning
-   - Azure/ Power Platform
+   - Anything AI shaped[Especially threat modelling and guardrails and harnesses]
+   - AI security testing/ applications of AI in CyberSecurity, Security of AI enabled systems
+   - Threat Modelling
    - Web Application Security
-   - AI misc.
-
-- I’m playing with
-   - AI/MCP
-   - D365
